@@ -1,0 +1,16 @@
+{
+  "name": "batch",
+  "description": "Batch webfont",
+  "version": "1.0.0",
+  "homepage": "http://adamwhitcroft.com/batch/",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": [
+    "./Webfont/batch-icons*"
+  ],
+  "ignore": [
+    "**/*.psd",
+    "**/*.png",
+    "**/*.svg"
+  ]
+}
